@@ -1,4 +1,5 @@
 Early Detection of Autism Spectrum Disorder in Toddlers Using Machine Learning :
+
 Our project aims to develop a machine learning model for the early detection of autism spectrum disorder (ASD) in toddlers.
 Early diagnosis of ASD is crucial for initiating timely interventions and improving outcomes for affected children.
 The project involves the collection of diverse dataset consisting of various behavioral and developmental features from toddlers, including social interactions, communication patterns, and repetitive behaviors.
